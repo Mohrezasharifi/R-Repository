@@ -1,17 +1,18 @@
 # R-Repository
 
 # PROBLEM: 
-In this repository, I am sharing a mini project I did on Data Visualization on a dataset of **AIRBORNE INFECTIOUS DISEASE OUTBREAK IN THE CITY OF MANCHESTER**
+In this repository, I am sharing a mini project I did on Statistical Methods on a dataset comprising of 699  breast tissue samples from 699 inviduals from Wisconsin, USA.  
+**Breast Cancer Classification using Statistical Techniques**
 
-<img width="1952" height="1098" alt="2ndscreenshot" src="https://github.com/user-attachments/assets/91639816-d5a0-4e1c-a169-fb69b3a29638" />
+<img width="1124" height="896" alt="Screenshot 2025-07-28 at 18 18 15" src="https://github.com/user-attachments/assets/19298840-402c-4462-b787-6d9beeada67f" />
+
+
 
 # TOOLS USED:
-PowerBI 
-* R for the data cleaning and analysis.
-* Install the PowerBI on your system to make use of this project.
 
-The file 'DataVisualization_FinalProject' contains the project file.
-The file 'Datafile_245.csv' contains the dataset used for the project.
+* R for the data cleaning and analysis.
+* Logistic Regression for classification into two classes (Begnin and Malignant)
+
 # DETAILS: 
 Non-technical people and the decision makers who may not have statistical knowledge, they tend to focus more on the numbers and that's what I tried to focus throughout my work.
-To illustrate the spread of the virus, I tried to use the statistical methods to showcase those numbers boldly.
+To illustrate work, I tried to use the statistical methods to showcase those numbers boldly.
