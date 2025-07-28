@@ -1,6 +1,6 @@
 # R-Repository
 
-# PROBLEM: 
+# PROJECT 1: 
 In this repository, I am sharing a mini project I did on Statistical Methods on a dataset comprising of 699  breast tissue samples from 699 inviduals from Wisconsin, USA.  
 **Breast Cancer Classification using Statistical Techniques**
 
@@ -30,3 +30,16 @@ The significance of these analysis lies in their role in identifying pivotal cyt
 accurate tumor classification with the existing dataset. By leveraging logistic regression, LASSO, and LDA
 models, this analysis contributes to the development of effective diagnostic tools crucial for enhancing clas-
 sification accuracy in distinguishing between benign and malignant tumors.
+
+# PROJECT 2: 
+**Analysis Report on Newcastle University's Online Cyber Security Course on FutureLearn**
+
+<img width="1185" height="856" alt="Screenshot 2025-07-28 at 18 32 40" src="https://github.com/user-attachments/assets/c5bf97a0-7f8e-46b5-9193-c9b19f69f4ce" />
+
+
+# TOOLS USED:
+
+* R for the data cleaning and analysis.
+
+# EVALUATIONS: 
+In my second cycle of CRISP-DM, while I've gained valuable insights into the correlation between experience ratings and feedback, the constraints of limited data restricted the use of more advanced analytical techniques. I relied on my instincts to assess sentiment, endeavoring to ensure the accuracy of the derived sentiments. Nevertheless, the findings present actionable opportunities for program enhancement. They highlight the significance of refining feedback collection methods and comprehending participants' sentiments to enhance the online learning experience. Here are four key takeaways from my analysis that would potentially answer the question I had put forward:
