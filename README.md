@@ -1,6 +1,6 @@
 # R-Repository
 
-# PROJECT 1: 
+## PROJECT 1: 
 In this repository, I am sharing a mini project I did on Statistical Methods on a dataset comprising of 699  breast tissue samples from 699 inviduals from Wisconsin, USA.  
 **Breast Cancer Classification using Statistical Techniques**
 
@@ -8,16 +8,16 @@ In this repository, I am sharing a mini project I did on Statistical Methods on 
 
 
 
-# TOOLS USED:
+### TOOLS USED:
 
 * R for the data cleaning and analysis.
 * Logistic Regression for classification into two classes (Begnin and Malignant)
 
-# DETAILS: 
+### DETAILS: 
 Non-technical people and the decision makers who may not have statistical knowledge, they tend to focus more on the numbers and that's what I tried to focus throughout my work.
 To illustrate work, I tried to use the statistical methods to showcase those numbers boldly.
 
-# EVALUATIONS: 
+**EVALUATIONS:** 
 The implementation of logistic regression, LASSO, and Linear Discriminant Analysis (LDA) models offers
 insights into effective classifiers for distinguishing between benign and malignant tumors using cytological
 predictors. Logistic regression analysis identifies crucial predictors linked to malignancy, while LASSO
@@ -31,15 +31,37 @@ accurate tumor classification with the existing dataset. By leveraging logistic 
 models, this analysis contributes to the development of effective diagnostic tools crucial for enhancing clas-
 sification accuracy in distinguishing between benign and malignant tumors.
 
-# PROJECT 2: 
+---
+## PROJECT 2: 
 **Analysis Report on Newcastle University's Online Cyber Security Course on FutureLearn**
 
 <img width="1185" height="856" alt="Screenshot 2025-07-28 at 18 32 40" src="https://github.com/user-attachments/assets/c5bf97a0-7f8e-46b5-9193-c9b19f69f4ce" />
 
 
-# TOOLS USED:
+### TOOLS USED:
 
 * R for the data cleaning and analysis.
 
-# EVALUATIONS: 
-In my second cycle of CRISP-DM, while I've gained valuable insights into the correlation between experience ratings and feedback, the constraints of limited data restricted the use of more advanced analytical techniques. I relied on my instincts to assess sentiment, endeavoring to ensure the accuracy of the derived sentiments. Nevertheless, the findings present actionable opportunities for program enhancement. They highlight the significance of refining feedback collection methods and comprehending participants' sentiments to enhance the online learning experience. Here are four key takeaways from my analysis that would potentially answer the question I had put forward:
+**EVALUATIONS:** 
+In my second cycle of CRISP-DM, while I've gained valuable insights into the correlation between experience ratings and feedback, the constraints of limited data restricted the use of more advanced analytical techniques. I relied on my instincts to assess sentiment, endeavoring to ensure the accuracy of the derived sentiments. Nevertheless, the findings present actionable opportunities for program enhancement. They highlight the significance of refining feedback collection methods and comprehending participants' sentiments to enhance the online learning experience. Here are four key takeaways from my analysis that would potentially answer the question I had put forward. 
+
+---
+
+### Interactive Dashboard: R Shiny
+
+* **Live Demo:** [KVPS Analysis Dashboard](https://prresearch.shinyapps.io/kvps-analysis/)
+* **Purpose:** Explore an open dataset using interactive filters and visualizations
+* **Tools Used:** R, Shiny, Public Policy Dataset
+
+**Highlights:**
+
+* Interactive data exploration for users of all skill levels
+* Clean visualizations to convey insights clearly
+* Demonstrates how raw data can be structured for decision-making
+
+**Dashboard Preview (Placeholders for GitHub images)**
+
+<img width="2142" height="892" alt="image" src="https://github.com/user-attachments/assets/0b49f39f-79b3-450a-ab3e-9d05b3ff2b25" />
+> This project provides a practical example of turning a dataset into actionable insights.
+
+---
